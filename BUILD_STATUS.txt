@@ -1,0 +1,7 @@
+JAR BUILD STATUS
+
+Target: Minecraft 26.2 + Fabric
+Required JDK: 25
+Required Gradle/Loom dependency downloads: unavailable in this runtime
+
+Therefore no installable .jar is included. The project is prepared for a real Fabric build environment.
